@@ -619,7 +619,7 @@ Pegar aquí el enlace del repositorio de GitHub.
 
 ## 31. Autor
 
-Aprendiz: Pablo Fuenmayor
+Aprendiz: GILLSON MARTINEZ
 
 Programa de formación: SENA
 
